@@ -7,7 +7,7 @@ order: 1
 
 ## 单 js 文件插件的安装
 
-将 js 插件置于目录 `Yunzai-Bot/lib/example` 中，即可完成安装。
+将 js 插件置于目录 `Yunzai-Bot/plugins/example` 中，即可完成安装。
 
 ## 大型扩展插件的安装
 
